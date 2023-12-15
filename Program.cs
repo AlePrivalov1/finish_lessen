@@ -20,3 +20,5 @@ void PrArr(string[] array)
     }
     Console.WriteLine();
 }
+ArrayIF(array1, array2);
+PrArr(array2);
